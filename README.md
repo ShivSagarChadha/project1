@@ -1,4 +1,4 @@
 # New Project 
 
-This project was created from local system.
-Learning git
+This project was created from local system &amp;
+Learning git.
